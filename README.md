@@ -1,3 +1,4 @@
+# What will you find here 
 Hi, I'm Ngan Nguyen or Jenny. 
 A Business Informatics student interested in data analytics, digital transformation, and turning raw data into business insight.
 This GitHub profile documents my learning journey and technical projects. 
